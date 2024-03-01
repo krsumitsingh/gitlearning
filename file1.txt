@@ -1,3 +1,4 @@
 1.test1234
 2.hello world written to be rollback12345
-3. this is to test fetch and merge=========== 
+3.this is to test fetch and merge=========== 
+4.this is to test pull directly into working copy
